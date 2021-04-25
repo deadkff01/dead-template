@@ -43,8 +43,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/deadkff01/dead-template.git"
+    "url": "git+https://github.com/deadkff01/dead-template.git"
   },
+  "keywords": [
+    "template",
+    "cra-template",
+    "esbuild",
+    "craco",
+    "cra-esbuild-template"
+  ],
   "devDependencies": {
     "@craco/craco": "^6.1.1",
     "craco-esbuild": "^0.3.1"
