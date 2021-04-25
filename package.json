@@ -1,5 +1,6 @@
 {
   "name": "cra-template-dead-template",
+  "author": "deadkff01 <kafferdennis@gmail.com>",
   "version": "0.1.0",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
