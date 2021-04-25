@@ -4,7 +4,26 @@
       "@testing-library/jest-dom": "^5.11.4",
       "@testing-library/react": "^11.1.0",
       "@testing-library/user-event": "^12.1.10",
+      "axios": "^0.21.1",
+      "react": "^17.0.2",
+      "react-dom": "^17.0.2",
+      "react-scripts": "4.0.3",
+      "styled-components": "^5.2.3",
       "web-vitals": "^1.0.1"
+    },
+    "scripts": {
+      "start": "craco start",
+      "build": "craco build",
+      "test": "craco test",
+      "test:coverage": "craco test --coverage --watchAll",
+      "start:normal": "react-scripts start",
+      "build:normal": "react-scripts build",
+      "test:normal": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "devDependencies": {
+      "@craco/craco": "^6.1.1",
+      "craco-esbuild": "^0.3.1"
     },
     "eslintConfig": {
       "extends": ["react-app", "react-app/jest"]
