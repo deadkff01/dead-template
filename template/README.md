@@ -5,9 +5,6 @@ CRA template with esbuild
 ## Running the app
 
 ```bash
-# install template
-npx create-react-app some-name --tamplate dead-template
-
 # install
 $ yarn
 
