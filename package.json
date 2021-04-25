@@ -41,6 +41,10 @@
       "last 1 safari version"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deadkff01/dead-template.git"
+  },
   "devDependencies": {
     "@craco/craco": "^6.1.1",
     "craco-esbuild": "^0.3.1"
